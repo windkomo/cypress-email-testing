@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sign Up</title>
+    <link
+      href="https://unpkg.com/superstylin@1.0.3/src/index.css"
+      rel="stylesheet"
+    />
+    <link href="./styles.css" rel="stylesheet" />
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <h1>Sign up please</h1>
+    <form method="post" name="signup" action="/">
+      <p>
+        <label for="email">Your email</label>
+        <input
+          type="email"
+          name="email"
+          placeholder="hello@humble.dev"
+          id="email"
+          required
+        />
+      </p>
+      <p>
+        <label for="password">Your password</label>
+        <input type="password" name="password" id="password" required />
+      </p>
+      <button class="button-primary">Sign up</button>
+    </form>
+  </body>
+</html>

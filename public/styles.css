@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: #264a60;
+    color: #fff;
+}
+
+input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 2px solid #f6f6f6;
+    background-color: #f6f6f6;
+    color: #343334;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
