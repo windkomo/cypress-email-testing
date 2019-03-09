@@ -1,5 +1,7 @@
 # Cypress Email Testing
 
+Blog post: https://humble.dev/testing-an-email-workflow-from-end-to-end-with-cypress
+
 Code sample demonstrating how to test an email based workflow with Cypress.
 Mails are sent to Mailhog and exposed through its API.
 
