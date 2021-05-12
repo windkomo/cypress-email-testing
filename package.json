@@ -7,7 +7,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "quoted-printable": "^1.0.1",
     "request-promise": "^4.2.4"
   },
